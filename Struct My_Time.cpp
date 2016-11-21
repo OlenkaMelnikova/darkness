@@ -1,4 +1,4 @@
-// Struct My_Time.cpp: определяет точку входа для консольного приложения.
+// Struct My_Time.cpp
 //
 
 #include "stdafx.h"
