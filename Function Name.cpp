@@ -1,4 +1,4 @@
-// Function Name.cpp: определяет точку входа для консольного приложения.
+// Function Name.cpp: Defines the entry point for the console application.
 //
 
 #include "stdafx.h"
