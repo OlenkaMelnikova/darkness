@@ -1,4 +1,4 @@
-// list.cpp: определяет точку входа для консольного приложения.
+// list.cpp: Defines the entry point for the console application.
 //
 
 #include "stdafx.h" 
